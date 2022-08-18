@@ -1,0 +1,52 @@
+{
+  "data": {
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/008de92a-6107-4bcd-a3fa-40b8155baa5d",
+          "priority": 1
+        }
+      ]
+    },
+    "AI_home": {
+      "enable": false
+    },
+    "AI_patrol": {
+      "patrolDistance": 2
+    },
+    "AI_walkRules": {
+      "faceCliff": {
+        "height": 1
+      }
+    },
+    "collision": true,
+    "damage": 10,
+    "deadAction": {
+      "playDeadAction": "Death"
+    },
+    "deadSound": {
+      "selfOnly": true
+    },
+    "enableAI": true,
+    "hideHp": false,
+    "hurtResistantTime": {
+      "value": 160
+    },
+    "maxHp": 100,
+    "name": {
+      "value": "entity_be6a48e2-8f9f-45e1-ac7c-3620fe81a14c"
+    },
+    "skill": [
+      "myplugin/008de92a-6107-4bcd-a3fa-40b8155baa5d"
+    ]
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "79ca97faaf2c69d1da7fb5c07178c502",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

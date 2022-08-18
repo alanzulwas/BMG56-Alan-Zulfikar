@@ -1,0 +1,39 @@
+{
+  "data": {
+    "attackBound": {
+      "position": {
+        "y": 0.75,
+        "z": 0.3
+      },
+      "size": {
+        "x": 0.5,
+        "y": 0.2,
+        "z": 0.4
+      }
+    },
+    "attackBoundSkillSystemCfg": {
+      "position": {
+        "y": 0.75,
+        "z": 0.3
+      },
+      "size": {
+        "x": 0.5,
+        "y": 0.2,
+        "z": 0.4
+      }
+    },
+    "attackTarget": {
+      "targetType": "hitPlayer"
+    },
+    "name": {
+      "value": "skill_system_008de92a-6107-4bcd-a3fa-40b8155baa5d"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "684e656c625929c34737e7ba95833347",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}
